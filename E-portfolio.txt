@@ -1,0 +1,45 @@
+<html>
+
+  <head> <title> E-Portfolio </title> </Head>
+
+<body Background="https://wallpaperaccess.com/full/1505480.jpg">
+
+<h1 style="color:white; text-align: center;"> <u>Welcome to my E-Portfolio</u> </h1> 
+
+<pre> 
+   <p style="color:white;"> All about me </p> 
+<p style="color:white;">
+<font size="5px">
+<b>Full name:</b> <u>Rio Gien Almanza Fultura</u>
+<b>Age:</b> <u>14</u>
+<b>Birthdate:</b> <u>February 11, 2010</u>
+<b>Hobbies: </b> <u>Playing - walking (w/ friends) - Watching youtube/Gravity falls</u>
+<b>Hates:</b> <u>Earthquake - People who makes offensive jokes and doesn't care if they hurt someone's feelings 
+- Fake Friends - Rapists - Misogyny - Sexism - Entitled people</u>
+<b>Love:</b> <u>Cats - Woody Harrelson - Politics - Risa Hontiveros - Kim Hye Soo 
+- Stanley Pines - Gravity Falls - Theories - FRIENDS<3 </u>
+
+<img src="C:\Users\Gea\Pictures\PIC 11111.jpg" width="150" Length="80"><img src="https://scontent.xx.fbcdn.net/v/t1.15752-9/459724738_1205569990659196_2121453266529836509_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=0024fc&_nc_eui2=AeHVDzPa-09YbBZTwV3BgXaNakxPh8hKJtRqTE-HyEom1A0N_9-dGPDxnz2glnkOpKZ1Xt4nrvmGzAotJ9KvKEYU&_nc_ohc=WDAxXThZyogQ7kNvgE5e6Xi&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_gid=A4gUnPAuSUqrMi4id5voW_5&oh=03_Q7cD1QGwU6Dy8zQKt4AtqhJtS2-lJK_QbxvVYoaqyxYT0106VQ&oe=6720CC7A" width="150" Length="80"><img src="https://scontent.xx.fbcdn.net/v/t1.15752-9/461670034_1186319102593177_1100781017723093365_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=0024fc&_nc_eui2=AeGPSTrOgsCVS3siMxmuA3paMcgFGyvJYmYxyAUbK8liZjeYDQV9bCaQlQlMMKaNg6CJxstfERaxEzcFDDD7fnMy&_nc_ohc=8o5et4DAE64Q7kNvgHDygdu&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_gid=A4gUnPAuSUqrMi4id5voW_5&oh=03_Q7cD1QF-GJIS-VxqDlSvEoVyz1zDH4GwIBjRODE7l9k38JHfVg&oe=6720B673" width="150" Length="80"> <video width="280" height="250" controls>
+  <source src=""C:\Users\Gea\Downloads\454736750_8019106301511071_1134110473376317689_n.mp4"" type="video/mp4"> Stanley! </video>
+</font>
+</p>
+<h2> REFLECTION? </h2>
+
+The First Quarter was such a great and yet devastating experience. It was fun yet so stressful. It was easy yet so confusing. 
+Our Tacher was great and my classmates were pretty okay too, i suppose they weren't that bad during classes.
+
+
+<h3 style="color:white;"> Lessons! </h3>
+
+<p style="color:white;"><b>LISTS</b></p>
+<img src="C:\Users\Gea\Pictures\Saved Pictures\Screenshots\Screenshot 2024-09-30 181143.png" width="200" Length="170">    
+<img src="https://scontent.xx.fbcdn.net/v/t1.15752-9/461584697_1725934581573730_2946812299376860751_n.png?stp=dst-png_p296x100&_nc_cat=107&ccb=1-7&_nc_sid=0024fc&_nc_eui2=AeFVpdU_EfdcVkPIhHCrlXIQ-HpFyaFOsdD4ekXJoU6x0HcMXQ6VVrCZl36CnKgAC2J479cJpznamIzmNHN1d4gE&_nc_ohc=yr1dsSr0UXYQ7kNvgGjG95Z&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&_nc_gid=AHhXoIu4mk-_GmX2__G6vMb&oh=03_Q7cD1QHl47RDkgFBn2MVVFT-XMC-Ng7Xqcdf2FNnOc6HrexzUQ&oe=6720BF01" width="200" length="170">
+
+<b>TABLE</b>
+
+
+</pre>
+</body>
+   
+</html>
+
